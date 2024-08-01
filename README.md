@@ -1,1 +1,1 @@
-# Heart-Rate-Monitoring
+# Heart Rate Monitoring
