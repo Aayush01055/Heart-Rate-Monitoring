@@ -1,1 +1,1 @@
-# Heart-Rate-Monitorin
+# Heart-Rate-Monitoring
